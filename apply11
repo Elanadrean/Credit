@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!-- This website template was created by: Michael Prestridge, 16 February 2020 -->
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="C:/Users/Michael/Desktop/W6A1ApplyStudent/apply/css/applystyles11.css">
+	<title>Credit</title>
+	<meta charset="utf-8">
+	<meta name="description" content="This website provides helpful information about how to build good credit.">
+</head>
+<body>
+<header> 
+	<h1> How to Build Good Credit </h1>
+</header>
+
+<main>
+	<p> To build good credit, one must first gain a line of credit.  For example, a financing deal for furniture, or a credit card for your local grocery store, are simple forms of credit, that generally do not require an existing credit score.  After obtaining one of these lines of credit, for at least six months, use this line of credit and pay off the monthly statement, either at its minimum payment, or slightly above, without fullying paying off the credit.  The best lines of credit for this building are those that do not charge interest until after six months to a year.  After six months, the line of credit can be paid off.  However, to keep a good credit score, your credit must keep being used.  If you let the lines stay open without using them, this is actually bad for your credit.</p>
+		<ul>
+			<li>1. Gain a line of credit that does not require a hard credit check. Such as a credit card for your local grocery store.  </li>
+			<li>2. Use this credit card for at least 6 months, while also paying part of the balance.</li>
+			<li>3. After at least 6 months, check your credit score.  If you missed no payments, your credit should be updated, and higher!</li>
+			<li>4. Don't forget that credit not being used, counts against your credit score. Don't keep open lines of credit, unless you're using it.</li>
+		</ul>
+</main>
+
+<footer> 
+	<p> Michael Prestridge </p>
+</footer> 
+
+</body>
+
+</html>
